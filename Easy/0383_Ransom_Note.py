@@ -4,7 +4,7 @@ Difficulty: Easy
 Link:https://leetcode.com/problems/ransom-note/
 
 Time Complexity: O(N)
-Space Complexity: O(N)
+Space Complexity: O(1)
 Pattern: Hash Map
 """
 
