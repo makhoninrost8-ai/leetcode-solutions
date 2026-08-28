@@ -5,7 +5,7 @@ Link:https://leetcode.com/problems/pascals-triangle
 
 Time Complexity: O(numRows^2)
 Space Complexity: O(numRows)
-Pattern: 
+Pattern: Recursive programming
 """
 
 class Solution:
