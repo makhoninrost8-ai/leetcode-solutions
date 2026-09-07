@@ -1,3 +1,13 @@
+"""
+1.  Happy number
+Difficulty: Easy
+Link:https://leetcode.com/problems/happy-number
+
+Time Complexity: O(N log N)
+Space Complexity: O(N)
+Pattern: Hash set
+"""
+
 class Solution:
     def isHappy(self, n: int) -> bool:
         seen=set()
