@@ -1,7 +1,7 @@
 """
 1.  Move Zeroes
 Difficulty: Easy
-Link: https://leetcode.com/problems/reverse-string
+Link: https://leetcode.com/problems/move-zeroes
 
 Time Complexity: O(N)
 Space Complexity: O(N)
