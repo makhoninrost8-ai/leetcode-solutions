@@ -3,7 +3,7 @@
 Difficulty: Easy
 Link: https://leetcode.com/problems/longest-common-prefix
 
-Time Complexity: O(n*m)
+Time Complexity: O(n*m^2)
 Space Complexity: O(m)
 Pattern: Vertical Scanning
 
